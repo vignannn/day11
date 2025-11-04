@@ -74,7 +74,7 @@ int main()
    }
     
     printf("----Transaction Summery----\n");
-    printf("Totak+l Transactions:%d\n",transactions);
+    printf("Total Transactions:%d\n",transactions);
     printf("Final Balance :$%d.2f\n",balance);
     printf("Session Ended !\n");
     
