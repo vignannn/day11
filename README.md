@@ -3,4 +3,5 @@ The C Program displays a real life replica of an ATm Machine that allows the use
 2. Depositing Money
 3. Withdrawing Money and finally
 4. Exit .
+
 It explains the use of loops , conditional statements , logical operators ,and input validation to create an interactive , menu - driven program ..
